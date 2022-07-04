@@ -6,12 +6,14 @@
 - 🔭 I’m currently working on **Web Projects**
 
 - 🌱 I’m currently learning **Linux,BlockChain**
----
 
 Connect with me:
 
 [![Git Logo](icon/twitter.png)](https://twitter.com/SomeshDebnath73)
 [![Git Logo](icon/linkedin.png)](https://www.linkedin.com/in/somesh-debnath-4001b31b3/)
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
