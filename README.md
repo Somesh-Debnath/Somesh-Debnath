@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Somesh Debnath</h1>
 <h3 align="center">An aspiring Computer Science Engineer from India</h3>
 
@@ -41,16 +42,27 @@ Connect with me:
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                                 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-                                <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                                 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
                     </p>
                     
 
-                    
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Somesh-Debnath&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh-Debnath"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Debnath&langs_count=10"> </p>
 
-[![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somesh-Debnath)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Debnath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+###      🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
+   ![snake gif](https://github.com/Somesh-Debnath/Somesh-Debnath/blob/output/github-contribution-grid-snake.gif)
+ 
