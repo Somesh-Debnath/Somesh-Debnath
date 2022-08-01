@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Somesh Debnath</h1>
 <h3 align="center">An aspiring Computer Science Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="bijankundu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="someshdebnath" /> </p>
 
 - 🔭 I’m currently working on **Web Projects**
 
